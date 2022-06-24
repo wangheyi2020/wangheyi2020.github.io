@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wangheyi2020.github.io</id>
+    <title>WHY2022&apos;s Blog</title>
+    <updated>2022-06-24T02:35:00.264Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wangheyi2020.github.io"/>
+    <link rel="self" href="https://wangheyi2020.github.io/atom.xml"/>
+    <subtitle>WHY2022&apos;s Blog</subtitle>
+    <logo>https://wangheyi2020.github.io/images/avatar.png</logo>
+    <icon>https://wangheyi2020.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, WHY2022&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[动态开点]]></title>
+        <id>https://wangheyi2020.github.io/post/dong-tai-kai-dian/</id>
+        <link href="https://wangheyi2020.github.io/post/dong-tai-kai-dian/">
+        </link>
+        <updated>2022-06-24T01:59:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Solution] 好题题解]]></title>
+        <id>https://wangheyi2020.github.io/post/20/</id>
+        <link href="https://wangheyi2020.github.io/post/20/">
+        </link>
+        <updated>2022-06-23T11:49:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://wangheyi2020.github.io/post/hello-gridea/</id>
+        <link href="https://wangheyi2020.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
